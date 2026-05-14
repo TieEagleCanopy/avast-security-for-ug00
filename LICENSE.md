@@ -1,4 +1,4 @@
-# 
+# Enhance Avast Security for macOS with instant Avast Security for macOS Helper | secure-storage + safe-browsing, the #1 helper. Includes secure-storage and safe-browsing for a
 
 
 
